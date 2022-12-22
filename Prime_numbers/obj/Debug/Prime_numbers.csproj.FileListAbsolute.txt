@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\Prime_numbers\Prime_numbers\bin\Debug\Prime_numbers.exe.config
+C:\Users\user\source\repos\Prime_numbers\Prime_numbers\bin\Debug\Prime_numbers.exe
+C:\Users\user\source\repos\Prime_numbers\Prime_numbers\bin\Debug\Prime_numbers.pdb
+C:\Users\user\source\repos\Prime_numbers\Prime_numbers\obj\Debug\Prime_numbers.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Prime_numbers\Prime_numbers\obj\Debug\Prime_numbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Prime_numbers\Prime_numbers\obj\Debug\Prime_numbers.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Prime_numbers\Prime_numbers\obj\Debug\Prime_numbers.exe
+C:\Users\user\source\repos\Prime_numbers\Prime_numbers\obj\Debug\Prime_numbers.pdb
